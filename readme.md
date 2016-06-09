@@ -1,4 +1,3 @@
-    Une page internet indépendante, liée à un bouton sur notre site.
 
 ·        Page bilingue (traduite par nos soins) du système de vote en ligne
 
