@@ -8,7 +8,7 @@
 ·        Un champ pour nous envoyer une adresse email pour tenter de remporter un bon de 50€ (et pouvoir obtenir facilement cette liste d’adresse dans un fichier).
 
 
-à refactoriser pour celui qui en a le courage :p
+.......à refactoriser pour celui qui en a le courage :p
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
