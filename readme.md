@@ -9,6 +9,9 @@
 
 
 .......à refactoriser pour celui qui en a le courage :p
+·        La BDD remplie SQL se trouve dans database
+·        pour l'admin : admin@admin.com   & adminadmin
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
