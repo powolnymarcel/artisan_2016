@@ -10,6 +10,7 @@
 ...
 
 ·        La BDD remplie SQL se trouve dans database
+
 ·        pour l'admin : admin@admin.com   & adminadmin
 
 .......à refactoriser pour celui qui en a le courage :p
