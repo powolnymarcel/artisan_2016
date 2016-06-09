@@ -7,10 +7,12 @@
 
 ·        Un champ pour nous envoyer une adresse email pour tenter de remporter un bon de 50€ (et pouvoir obtenir facilement cette liste d’adresse dans un fichier).
 
+...
 
-.......à refactoriser pour celui qui en a le courage :p
 ·        La BDD remplie SQL se trouve dans database
 ·        pour l'admin : admin@admin.com   & adminadmin
+
+.......à refactoriser pour celui qui en a le courage :p
 
 # Laravel PHP Framework
 
