@@ -58,7 +58,7 @@ return [
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'ondegofit'),
             'username' => env('DB_USERNAME', 'ondegofit'),
-            'password' => env('DB_PASSWORD', 'phpmyAdmin03'),
+            'password' => env('DB_PASSWORD', '/'),
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
