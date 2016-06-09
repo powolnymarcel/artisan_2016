@@ -1,3 +1,15 @@
+    Une page internet indépendante, liée à un bouton sur notre site.
+
+·        Page bilingue (traduite par nos soins) du système de vote en ligne
+
+·        Possibilité de voter pour 3 artisans différents
+
+·        Un vote par adresse IP par jour/artisan (il faudrait donc qu’on ait accès chaque jour à un tableau Excel pour comptabiliser les votes)
+
+·        Un champ pour nous envoyer une adresse email pour tenter de remporter un bon de 50€ (et pouvoir obtenir facilement cette liste d’adresse dans un fichier).
+
+
+à refactoriser pour celui qui en a le courage :p
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
