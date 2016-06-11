@@ -14,6 +14,7 @@
 ·        pour l'admin : admin@admin.com   & adminadmin
 
 .......à refactoriser pour celui qui en a le courage :p
+.......ne pas changer la langue via un form, snippet nav interessant dans le package localisation ...
 
 # Laravel PHP Framework
 
